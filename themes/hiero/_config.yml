@@ -33,6 +33,7 @@ avatar:
 # AboutPage background
 about_big_image: [css/images/pose.jpg, https://source.unsplash.com/collection/954550/1920x1080]
 
+common_money_footer: <h4>曾梦想仗剑走天涯，后来没钱没有去。</br>伏案看看那纸上的世界，终究觉得淡而无味。</br>若君不忍看我困于这虚拟世界，</br>9.9瑞幸支持下我立马回到人间。</h4>
 
 # Homepage thumbnail
 random_thumb: false
